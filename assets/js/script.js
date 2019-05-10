@@ -8,7 +8,7 @@ function loadContent() {
 	$.ajax({
 		url: "https://raw.githubusercontent.com/natamus/jmh-web/master/data/_directory",
 		success: function(data){
-			html = $("#list1").html();
+			html = $("#availablelist").html();
 			data.split("\n").forEach(function(e) { 
 				name = "";
 				e.split("_").forEach(function(f) {
@@ -17,10 +17,10 @@ function loadContent() {
 					}
 					name += f.charAt(0).toUpperCase() + f.slice(1).toLowerCase();
 				});
-				html += '<a href="#" class="list-group-item">' + name + '<input type="checkbox" class="pull-right"></a>';
+				html += '<a href="#" class="list-group-item" id="' + e + '">' + name + '<input type="checkbox" class="pull-right"></a>';
 			});
 
-			$("#list1").html(html);
+			$("#availablelist").html(html);
 			contentevents();
 		}
 	});
