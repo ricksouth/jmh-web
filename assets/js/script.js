@@ -6,7 +6,7 @@ $(document).ready(function(e) {
 
 function loadContent() {
 	$.ajax({
-		url: "/data/",
+		url: "/data/_directory",
 		success: function(data){
 			console.log("rundata");
 			console.log(data);
