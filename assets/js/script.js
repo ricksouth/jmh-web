@@ -8,8 +8,12 @@ function loadContent() {
 	$.ajax({
 		url: "https://raw.githubusercontent.com/natamus/jmh-web/master/data/_directory",
 		success: function(data){
-			console.log("rundata");
-			console.log(data);
+			html = $("#list1").html();
+			data.split("\n").forEach(function(e) { 
+				html += '<a href="#" class="list-group-item">' + e + '<input type="checkbox" class="pull-right"></a>';
+			});
+
+			$("#list1").html(html);
 			contentevents();
 		}
 	});
