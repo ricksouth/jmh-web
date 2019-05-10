@@ -6,7 +6,7 @@ $(document).ready(function(e) {
 
 function loadContent() {
 	$.ajax({
-		url: "/data/_directory",
+		url: "https://raw.githubusercontent.com/natamus/jmh-web/master/data/_directory",
 		success: function(data){
 			console.log("rundata");
 			console.log(data);
