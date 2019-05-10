@@ -1,8 +1,19 @@
 $(document).ready(function(e) {
 	$("#content").load("/content.html", function() {
-		contentevents();
+		loadContent();
 	});
 });
+
+function loadContent() {
+	$.ajax({
+		url: "/data",
+		success: function(data){
+			console.log("rundata");
+			console.log(data);
+			contentevents();
+		}
+	});
+}
 
 function contentevents() {
 	$('.add').click(function(){
