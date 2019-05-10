@@ -10,7 +10,14 @@ function loadContent() {
 		success: function(data){
 			html = $("#list1").html();
 			data.split("\n").forEach(function(e) { 
-				html += '<a href="#" class="list-group-item">' + e + '<input type="checkbox" class="pull-right"></a>';
+				name = "";
+				e.split("_").forEach(function(f) {
+					if (name != "") {
+						name += " ";
+					}
+					name += f.charAt(0).toUpperCase() + f.slice(1).toLowerCase();
+				});
+				html += '<a href="#" class="list-group-item">' + name + '<input type="checkbox" class="pull-right"></a>';
 			});
 
 			$("#list1").html(html);
