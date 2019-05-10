@@ -1,3 +1,1 @@
-<?php
-	echo "<p>ran</p>";
-?>
+<p>ran</p>
