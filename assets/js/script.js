@@ -29,13 +29,13 @@ function loadContent() {
 function contentevents() {
 	$('.add').click(function(){
 		$('.all').prop("checked",false);
-		var items = $("#list1 input:checked:not('.all')");
+		var items = $("#availablelist input:checked:not('.all')");
 		var n = items.length;
 		if (n > 0) {
 			items.each(function(idx,item){
 				var choice = $(item);
 				choice.prop("checked",false);
-				choice.parent().appendTo("#list2");
+				choice.parent().appendTo("#todownloadlist");
 			});
 		}
 		else {
@@ -45,11 +45,11 @@ function contentevents() {
 
 	$('.remove').click(function(){
 		$('.all').prop("checked",false);
-		var items = $("#list2 input:checked:not('.all')");
+		var items = $("#todownloadlist input:checked:not('.all')");
 		items.each(function(idx,item){
 			var choice = $(item);
 			choice.prop("checked",false);
-			choice.parent().appendTo("#list1");
+			choice.parent().appendTo("#availablelist");
 		});
 	});
 
