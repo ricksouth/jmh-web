@@ -1,0 +1,194 @@
+{
+  "bigcat" : {
+    "id" : "",
+    "value" : ""
+  },
+  "crocodile" : {
+    "id" : "f7ecc813-83ff-4bf5-8c51-325beac1a7af",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJlN2ZhMmY5YjhkNmQxZTczNGVkYTVlM2NlMDI2Njg4MTM0MjkyZmNhZmMzMjViMWVhZDQzZDg5Y2MxZTEifX19"
+  },
+  "manticore" : {
+    "id" : "",
+    "value" : ""
+  },
+  "silverskeleton" : {
+    "id" : "d60b2048-b6a1-403d-a0a5-5f49dcf9f8ae",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWViYzUwOGU5NTA5ODEzMDA3YWFjYTBhMzQ5Y2RkYmZmMTYzNDhjMmQzOWFjZWU5ZjI0M2UxNDkwNTc4YzkxMCJ9fX0="
+  },
+  "snake" : {
+    "id" : "f8be3507-e2f0-4d2c-90fb-028185216243",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGU0M2QzMDFkZWE5OWM2ZGM3ZTg5ZGU4OGVmZGYxMzBiNGVmM2ZmZmY0NWZhZTdjZjIwMWIxNmNlMjFmOCJ9fX0="
+  },
+  "bear" : {
+    "id" : "b83764ef-0575-44f4-a2dd-5b3929a2dd86",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmVhNTVkNGM3Zjg1ODc3ZGU2MDg3MTdlOGY0NDIyYTJhYjg0ZGU2OTY3ZjEyOTIxZDU4YmRmZmRlYzk5In19fQ=="
+ },
+  "biggolem" : {
+    "id" : "dbae206b-9b1d-46ee-9e15-44ce40061bb3",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjQyZjljM2Y3YWNiN2VlNTYyZmE1NWNiZTU0ZTFkY2M2MzgzMTRkMjVjMzk4NTU0ZWNkMzcyMGQ3ZWUyYiJ9fX0="
+ },
+  "komododragon" : {
+    "id" : "e8d72ea6-df52-43f2-9578-057518bdc141",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGIxMThkOGY2OWFjNTEzNjNkMmJjNGJiOTU3NDM1NTVlM2U5YzE1M2FiZTcyZDY2NGMwZmI4ZDliNzI5YjQxIn19fQ=="
+ },
+  "wraith" : {
+    "id" : "11b0f1bc-0343-4fa1-9c23-686d62557d46",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYWVhMDM0MDc2Y2ExMDk1OWRlOWQ1NDFjODE3Y2QyOGQyYThiMGFhZDdkOGE4YWZjMmI1NDI1M2Y2ZjBmZWQzIn19fQ=="
+  },
+  "wyvern" : {
+    "id" : "",
+    "value" : ""
+  },
+  "dolphin" : {
+    "id" : "8b7ccd6d-36de-47e0-8d5a-6f6799c6feb8",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGU5Njg4Yjk1MGQ4ODBiNTViN2FhMmNmY2Q3NmU1YTBmYTk0YWFjNmQxNmY3OGU4MzNmNzQ0M2VhMjlmZWQzIn19fQ=="
+ },
+  "shark" : {
+    "id" : "fc7d3dd9-2172-4494-a1d8-2888bc0ac371",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjk5MmY0ZjhiN2VjOGUzMDhhODUyMjUyNjNmMWI5NDY4YWZkYjc1NDFiZDVmODQ1MTkxODcwZDE5ZDNhMTQifX19"
+ },
+  "jellyfish" : {
+    "id" : "ddf41fa4-d000-48cb-8466-99cac9d6faf4",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTEzZjA4NmNjYjU2MzIzZjIzOGJhMzQ4OWZmMmExYTM0YzBmZGNlZWFmYzQ4M2FjZmYwZTU0ODhjZmQ2YzJmMSJ9fX0="
+ },
+  "mantaray" : {
+    "id" : "",
+    "value" : ""
+ },
+  "stingray" : {
+    "id" : "",
+    "value" : ""
+ },
+  "maggot" : {
+    "id" : "",
+    "value" : ""
+ },
+  "butterfly" : {
+    "id" : "",
+    "value" : ""
+ },
+  "bee" : {
+    "id" : "bc1ca880-4dc5-4d17-9c05-027a7d3999b3",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOTQ3MzIyZjgzMWUzYzE2OGNmYmQzZTI4ZmU5MjUxNDRiMjYxZTc5ZWIzOWM3NzEzNDlmYWM1NWE4MTI2NDczIn19fQ=="
+ },
+  "ant" : {
+    "id" : "",
+    "value" : ""
+ },
+  "dragonfly" : {
+    "id" : "",
+    "value" : ""
+ },
+  "firefly" : {
+    "id" : "4f53603e-43a8-4f59-a88a-5a43c06928f2",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmY5MmQzZjM4NWNjMTZjNzc2NzVhNDZkZTNlODMzYWMxN2M3NGFkYTNlMTk0NmVmNzAyMWVjZGJmOWYxYmEifX19"
+ },
+  "fly" : {
+    "id" : "749b03a1-f948-4af6-974a-9a885baca22a",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTVmZjkyNGY3YjQ0NGYzOTE2MmJhZDMwMWZkYzE3Nzk3YzYxNmUxODcxZGRmODJjYTdmMWQyMzFhNTczOTRlIn19fQ=="
+ },
+  "cricket" : {
+    "id" : "",
+    "value" : ""
+ },
+  "roach" : {
+    "id" : "",
+    "value" : ""
+ },
+  "boar" : {
+    "id" : "9359cf26-2cf0-492a-b7b1-63971ce17ea4",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2E2N2JmYWRhMjZiZmRmOGI3YTUyYmIyOTJmZWRlOTgzZDY5YjRmMTc1YzA3OTIyNzkxNDk0N2U4YTVmODJmIn19fQ=="
+ },
+  "elephant" : {
+    "id" : "9d28fff8-eb5b-4ce7-8ea9-9d864ae5bf01",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjVjZTc2MmJjOGU3YWQ1ZTE2YjM1MzU0ZjdkOTM0MWNiY2NkMmRlNjE3OTFhN2E2ODgyYWM0M2MzOGNjOGUifX19"
+ },
+  "ent" : {
+    "id" : "fbfe7137-9cf6-4b2b-903c-c59fa1cac6e6",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmM2MmU4OTE3NzIzMWU3NTVkNzU2M2Y1ZGM3NTZmN2M5NzNkNzVhNjgwZDZiZTUyMzJkZTk5MTRiN2Y0ZGFmMiJ9fX0="
+ },
+  "fox" : {
+    "id" : "1bb62bb2-5476-42d7-b974-f651a9565d39",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTZkYjdkNTA3Mzg5YTE0YmJlYzM5ZGU2OTIyMTY1YjMyZDQzNjU3YmNiNmFhZjRiNTE4MjgyNWIyMmI0In19fQ=="
+ },
+  "goat" : {
+    "id" : "284952f9-ae8c-4a9e-a34f-b015bfa1a77d",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmJjNDM4ZmMxZmJiYWVhMjI4OWFhYmVjZWRkM2ZkZjI2OWRkYzk3OWJmOGI1YzZhOGZjNGJiOGRjZDRlMWZlIn19fQ=="
+ },
+  "hellrat" : {
+    "id" : "bbd5a8ce-224a-4299-9841-1d5ee5441b0e",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdjYzU2YzhmODUyNjM2OGY3MjM3YWFlMzg5NGYwZGY3MGE0NGE3M2I4NzIwYWM1MTcxYjM4OWM2NmIyMjJmIn19fQ=="
+ },
+  "kitty" : {
+    "id" : "9c91d178-1124-4e5d-8308-9ccaa3c603d7",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmQzMjM4MmQ2MGE5OGVjNzA5ODMxOGE1OGJlNzlkMmZhYmYyZTI5NmRiODFjOTQ3MWQ2YjNjMzI0ZGVhIn19fQ=="
+ },
+  "ogre" : {
+    "id" : "a6442995-05c0-45a9-98c5-12d6bf1de960",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDZhZWIzOTcxZjRiNGQ4MTQ5MTVhM2E3MGY2OTUzMWUwNDg3ZDgyNGQ2ODJhZjE3YjA0Y2ZkMDRmYjg2Nzk1In19fQ=="
+ },
+  "ostrich" : {
+    "id" : "",
+    "value" : ""
+ },
+  "raccoon" : {
+    "id" : "c13b5b76-7421-4a7d-80d3-eafca94b6f48",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmUyZDg5ODVkMTEzZjk5NzM1YWIzMDFmMmQ3NmU2ZmNjN2VmNzE5ZjRmYmVjNWRkMzIyMmE3YjhiZTQ3ZiJ9fX0="
+ },
+  "rat" : {
+    "id" : "17fe9776-74cb-44b1-83ec-2b281c7bb23f",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODA1NGJlYzVlMDliNjU5ZTYzYmU1MDk2ZGNhN2ZiZDExODhjYjE4M2FkODU3YzFlYzEwMzdjYzE4MTI5ODUifX19"
+ },
+  "scorpion" : {
+    "id" : "0baa4808-3903-4019-88e8-3f40cf94dc31",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzkxZDk2NTU5MDM2YTRmYjY2ODY0NGM5M2MyZDNjMjJiMDA5ODAzNzFmNDRkZGFiZTZiOWJmOTE5N2I5In19fQ=="
+ },
+  "werewolf" : {
+    "id" : "00a6f2ed-8777-45dd-a757-2409bfd5fd05",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzZkYjk4ODhjNTI3NWU3OTkwZWY3YTA1MmY4MWNiZDM4NDZiM2I5M2Q2ODJiMzY0MmY5ZWMyNGRlODgzNTNiZiJ9fX0="
+ },
+  "wildwolf" : {
+    "id" : "72656031-6fd4-4db8-8dec-0ce216abd679",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTU0ODFkNjEwZWMwNmE1NDM4NDBmNzZiOGNjOWRjNTFmZDgwMjAwYTVmYTg5NGZkZjRlOWUzMDE5MDRhZjQ4ZSJ9fX0="
+ },
+  "bird" : {
+    "id" : "e6cf4d9e-487a-43d1-a75e-f399c7177eec",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTlkOTM2ZDU0MTMxMzdlMzY1NGZkNzViN2VmNjZlOTNlMWQ1YjVmOWQ0ZWVkYTA0MDM0NjdmZjYwN2M3OCJ9fX0="
+ },
+  "bunny" : {
+    "id" : "8467993b-56d2-47f3-9f5b-127a8c11afe6",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzhmNDQ5NDRlODJjMTg0N2QwMzVlMGJmNTg0ODU3YmUzZWY5NDdjM2VkZDFkNmFhN2U4MTI5NGFiZDYwZmQifX19"
+ },
+  "crab" : {
+    "id" : "6d1db7d0-a700-426a-ab2a-36782b04fa9b",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM3NTU1MzYxNDU4NzExYzllOGIzZDVlM2VkODJkNTY3YWZjNGZkODU3YmMxM2JjNjRjMTk1NDlmMDgyNTkifX19"
+ },
+  "deer" : {
+    "id" : "b2d62125-8a3e-4049-8636-fc2ce4397034",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzlmMTYwYzFjZDY2NjlmYjkxZjdmZTRjZGE1MTE0NDEwOTM0NDU2MzU3MDU1OTA2MzFjYWExNDczMTk3MTI1MCJ9fX0="
+ },
+  "duck" : {
+    "id" : "dbb1f744-095e-4026-9085-98e8681eb75a",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvY2Y5ZTgxYmNiYmFiMmU3M2IxMzE4NDgzYjA2NjJiNDBiMWU5NWU5ZDM4MTkxNWQ0NjMzZGY1NjdiYTU0MzIifX19"
+ },
+  "mole" : {
+    "id" : "fb7d81f4-e6dd-4f56-bfcc-fd0d10",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTA3ZmFkNzJiYzJjOGZjNGM5MTRjMmJmMWFjM2MyN2IwMjg5NWVjZjQ3MGI3ZDhjNGViMTk4ODMxOGY5MWFmIn19fQ=="
+ },
+  "mouse" : {
+    "id" : "754c7e77-74ed-492e-958b-0acd7d64797d",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzRiZjYxYWQ4NTVlNDU4Y2NjODQ4Y2ViNTlhNzE0ZTcwN2NiZjE2MmRmYjFmYWZmZDcyY2IxYzUyYmQxZWEifX19"
+ },
+  "snail" : {
+    "id" : "b94a61e6-72db-4724-b4e6-71402bdc3fb3",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTVlMmU1OWJhNjc4YWRlMGE4MGIxZDQyYTIxMmI3Y2Y0ZWM5NjNiNDk0ZjhlYWVhYjlmNjQzZTJjYWFhOTEifX19"
+ },
+  "turkey" : {
+    "id" : "16b53095-c93d-4ba6-ba1f-19fb9e18e12d",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDRmYWE2NzcxYjVkZTUzNmViZWQ2Yzg1MzY2YWIzNDNmMmVmNTMyNjllYWQxMTczYTg0ZGFlNDJkNmNmMiJ9fX0="
+ },
+  "turtle" : {
+    "id" : "4d57e309-b9ac-473b-b3a4-ea64f21ae7a5",
+    "value" : "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjEyYjU4Yzg0MWIzOTQ4NjNkYmNjNTRkZTFjMmFkMjY0OGFmOGYwM2U2NDg5ODhjMWY5Y2VmMGJjMjBlZTIzYyJ9fX0="
+ }
+}
