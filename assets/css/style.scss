@@ -12,12 +12,14 @@ a small {
 }
 
 .leftlist {
-	margin-left: 2%;
-	margin-right: 1%;
+	position: relative;
+	float: left;
+	left: 2%;
 	width: 47%;
 }
 .rightlist {
-	margin-right: 2%;
-	margin-left: 1%;
+	position: relative;
+	float: right;
+	right: 2%;
 	width: 47%;
 }
