@@ -3,6 +3,13 @@
 
 @import "{{ site.theme }}";
 
+@media only screen and (max-width: 960px) {
+	.footercontent {
+		position: absolute;
+		bottom: 10px;
+	}
+}
+
 #content {
 	height: auto;
 }
