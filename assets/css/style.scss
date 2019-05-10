@@ -11,9 +11,11 @@ a small {
 	font-size: 10px;
 }
 
+.container .row {
+	width: 100%;
+}
+
 .v-center {
 	min-height:200px;
-	display: flex;
 	justify-content:center;
-	flex-flow: column wrap;
 }
