@@ -1,3 +1,3 @@
 ## Just Mob Heads
 
-{% include main.html %}
+{% include main.php %}
