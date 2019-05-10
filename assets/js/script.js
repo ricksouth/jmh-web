@@ -1,5 +1,5 @@
 $(document).ready(function(e) {
-	console.log(2);
+	console.log(3);
 	$("#content").load("/content.html", function() {
 		contentevents();
 	});
