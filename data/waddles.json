@@ -1,0 +1,10 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"adelie_penguin": {
+			"id": "3ad0484e-0123-408b-980e-35bb8aa3efe6",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYmQ5MDIwOTJlM2E3YTA1ZjQ0NTExM2U5MjNiM2RiNDRkM2Q0NWEyNDRjZjVmYzBhMjQ0ZTFlYjk3ZjZmZTFlIn19fQ==",
+			"dropchance" : 1.0
+		}
+	}
+}
