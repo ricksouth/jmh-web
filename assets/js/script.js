@@ -28,9 +28,10 @@ function loadContent() {
 
 function contentevents() {
 	$("#dlb").on('click', function(e) {
-		console.log("ran");
+		var todownload = $("#todownloadlist a:not(.active)");
+		console.log(todownload);
 	});
-	
+
 	$('.add').click(function(){
 		$('.all').prop("checked",false);
 		var items = $("#availablelist input:checked:not('.all')");
