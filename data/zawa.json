@@ -1,0 +1,165 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"african_lion": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"albatross": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"amur_leopard": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"andean_condor": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"asian_elephant": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"bengal_tiger": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"black_rhinoceros": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"black_spider_monkey": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"bottlenose_dolphin": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cockatoo": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"fiji_banded_iguana": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"gaur": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"green_anaconda": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"grevys_zebra": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hawksbill_sea_turtle": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"indian_gharial": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"indian_pangolin": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"japanese_giant_salamander": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"koala": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"macaw": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"meerkat": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"nile_hippo": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"okapi": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"orca": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"pacific_walrus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"polar_bear": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"red_kangaroo": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"red_anda": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"reticulated_giraffe": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"toucan": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"tree_frog": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"lowland_gorilla": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		}
+	}
+}
