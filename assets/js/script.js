@@ -26,6 +26,19 @@ function loadContent() {
 	});
 }
 
+function loadJson(url) {
+	$.ajax({
+		type: "POST",
+		url: url,
+		dataType: 'json',
+		success: function(data) {
+			console.log("theurl:", url);
+			console.log(data);
+		},
+		error: function(data) {}
+	});
+}
+
 function contentevents() {
 	$("#dlb").on('click', function(e) {
 		var todownload = $("#todownloadlist a:not(.active)");
@@ -34,11 +47,12 @@ function contentevents() {
 			return;
 		}
 
-		var packs = [];
+		var urlprefix = "https://raw.githubusercontent.com/natamus/jmh-web/master/data/";
 		todownload.each(function(e) { 
-			packs.push($(this).attr('id'));
+			var packname = $(this).attr('id');
+			var json = loadJson(urlprefix + packname + ".json");
+			console.log("json:", json);
 		});
-		console.log(packs);
 	});
 
 	$('.add').click(function(){
