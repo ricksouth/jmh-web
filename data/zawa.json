@@ -2,8 +2,8 @@
 	"entityprefix": "Entity",
 	"textures": {
 		"african_lion": {
-			"id": "",
-			"value": "",
+			"id": "f5fd0151-0f18-482d-84a8-384231d74dc8",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjcyZTQ5ZDVlNGFmNDczNTcxZTdlMDc4YWI3OGMzZTgzOTY4ZDJmZTEwOWRhOTUyNDRjNWQwY2I3ZDIyYjQ2YiJ9fX0=",
 			"dropchance" : 1.0
 		},
 		"albatross": {
@@ -12,8 +12,8 @@
 			"dropchance" : 1.0
 		},
 		"amur_leopard": {
-			"id": "",
-			"value": "",
+			"id": "181dc902-f79e-429d-a69a-6f738db1ec34",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMDRkNGY5NWQzY2UxYWY5NTljOTJiZmJmYzEyMjMzODQ4ODVmOTE5ZGM1ZGQ1MjI2NDc1NWFlNTQ1NDM0In19fQ==",
 			"dropchance" : 1.0
 		},
 		"andean_condor": {
@@ -22,63 +22,63 @@
 			"dropchance" : 1.0
 		},
 		"asian_elephant": {
-			"id": "",
-			"value": "",
+			"id": "5e1ffc5a-4981-49c0-ba08-fd4327f43f51",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODVlZjY3ODVlMGUzZjBhMWRjOGFmYWRhNzk4NjhmNTU5NTQ1NzI2ZjI5NTQ2YjFjYTlhNjM2M2FjNWZhZjMifX19",
 			"dropchance" : 1.0
 		},
 		"bengal_tiger": {
-			"id": "",
-			"value": "",
+			"id": "8ef6b8ad-8d46-4150-926c-2f29361dd41e",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZmM0MjYzODc0NDkyMmI1ZmNmNjJjZDliZjI3ZWVhYjkxYjJlNzJkNmM3MGU4NmNjNWFhMzg4Mzk5M2U5ZDg0In19fQ==",
 			"dropchance" : 1.0
 		},
 		"black_rhinoceros": {
-			"id": "",
-			"value": "",
+			"id": "6cab415f-2d47-4d6f-ad97-47b0ae84587c",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWU4YTBkMDJjNjAxOWRlNWFhODJjOTYxOGZjZmM1NjI0ZGNmMDM0NWQ2ODNmOWM4M2JhM2JlMDZhOWNkNTE2OSJ9fX0=",
 			"dropchance" : 1.0
 		},
 		"black_spider_monkey": {
-			"id": "",
-			"value": "",
+			"id": "7a55939e-057a-4441-8c5c-e48bc266b8db",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMThkNjk3NTg1ZTliZWEzMjFkN2Q0OGE1NWI1NDFlNzc2ZmYxYzE1ZTJmNGI5NGRlODBjZTM2NWYyMDc3YWNiMSJ9fX0=",
 			"dropchance" : 1.0
 		},
 		"bottlenose_dolphin": {
-			"id": "",
-			"value": "",
+			"id": "8b7ccd6d-36de-47e0-8d5a-6f6799c6feb8",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGU5Njg4Yjk1MGQ4ODBiNTViN2FhMmNmY2Q3NmU1YTBmYTk0YWFjNmQxNmY3OGU4MzNmNzQ0M2VhMjlmZWQzIn19fQ==",
 			"dropchance" : 1.0
 		},
 		"cockatoo": {
-			"id": "",
-			"value": "",
+			"id": "9284d474-119d-bba1-615a-9fe4e57110a5",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTg5YjQyZGUzYzVjNTUyNjA5ZTFkMTA0ZWQyMjg0YWRhMDlhMWM1ODEwZjNlNTI5YWYxZWY2OWM1M2Q2In19fQ==",
 			"dropchance" : 1.0
 		},
 		"fiji_banded_iguana": {
-			"id": "",
-			"value": "",
+			"id": "65d3ebcb-6a59-4c6c-a54d-4b56d1d6594a",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTM3NzAyMDdlYTA3YWZlNWFmM2NkNTZiMTk0NDk5ZmE3NmI5YjU1MTEzYjg2ZTA1N2IzY2M1YTM0ZTEzOSJ9fX0=",
 			"dropchance" : 1.0
 		},
 		"gaur": {
-			"id": "",
-			"value": "",
+			"id": "3b838f68-a113-40f4-b4c6-bd6500236566",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMTE2ZjRkYWY1YWY2MjUzZGNkZDdlYWQ0MWJlNDRlYzc3OGRmYTAxYmRhNTdlMmVkOWVjMTEyN2UifX19",
 			"dropchance" : 1.0
 		},
 		"green_anaconda": {
-			"id": "",
-			"value": "",
+			"id": "abb520f9-a6d3-4ad1-8344-4138ef0ee1d2",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTFiNGIyMDE4OWQ5MDJiYzZjM2ZhYmUyM2Q5ZjU3ODY5N2Y1NDRjZjQxNTMxNzc4NzM3NDExODM5M2RhNCJ9fX0=",
 			"dropchance" : 1.0
 		},
 		"grevys_zebra": {
-			"id": "",
-			"value": "",
+			"id": "f931eea7-ed8d-4406-9934-e0397d80ad40",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjc0YmNlOTc4MWUzODUxOTdjZjM5YTk2MTkzZTljMjQzZGZiMTRmZWVmNzIyYzg3YmVhY2Q2Yjk5MzI5YjE1NSJ9fX0=",
 			"dropchance" : 1.0
 		},
 		"hawksbill_sea_turtle": {
-			"id": "",
-			"value": "",
+			"id": "4d57e309-b9ac-473b-b3a4-ea64f21ae7a5",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjEyYjU4Yzg0MWIzOTQ4NjNkYmNjNTRkZTFjMmFkMjY0OGFmOGYwM2U2NDg5ODhjMWY5Y2VmMGJjMjBlZTIzYyJ9fX0=",
 			"dropchance" : 1.0
 		},
 		"indian_gharial": {
-			"id": "",
-			"value": "",
+			"id": "f7ecc813-83ff-4bf5-8c51-325beac1a7af",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzJlN2ZhMmY5YjhkNmQxZTczNGVkYTVlM2NlMDI2Njg4MTM0MjkyZmNhZmMzMjViMWVhZDQzZDg5Y2MxZTEifX19",
 			"dropchance" : 1.0
 		},
 		"indian_pangolin": {
@@ -87,48 +87,48 @@
 			"dropchance" : 1.0
 		},
 		"japanese_giant_salamander": {
-			"id": "",
-			"value": "",
+			"id": "2c202ea9-1180-4ad2-8643-4920b58d860b",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZTQxOTY5MjFjYjljZGE0YjgxZjM4ODgwZDljMzIzOWY5YmRmOGNjNWY1ZjJlNzUyMDE2ZjU3ZTgzMTFmNDkifX19",
 			"dropchance" : 1.0
 		},
 		"koala": {
-			"id": "",
-			"value": "",
+			"id": "719e39f7-5ca2-460a-8364-8e0624ebf8b9",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODZjOWQ1MWU5OGJlM2U2ODlmNmM2OWRjN2ZkNDU0ZDk1OTYyOWE1MDU1OWJlZDE2ZWFiY2Q3YTM4Zjk4MWYifX19",
 			"dropchance" : 1.0
 		},
 		"macaw": {
-			"id": "",
-			"value": "",
+			"id": "36445dda-594a-4362-b971-c2234ffb4ffc",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzA2NmZkMjg1OWFmZmY3ZmRlMDQ4NDM1MzgwYzM4MGJlZTg2NmU1OTU2YjhhM2E1Y2NjNWUxY2Y5ZGYwZjIifX19",
 			"dropchance" : 1.0
 		},
 		"meerkat": {
-			"id": "",
-			"value": "",
+			"id": "64d242e9-3204-40c9-bc51-ae357979f349",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjI5OGZiZmY5NmZmNzliMzg4Y2YzNWFjZTU2YTgxOWJjMzZiMzczNTBiMWQ4MjM2MGNkZmU5YjQyZDZlZTg2In19fQ==",
 			"dropchance" : 1.0
 		},
 		"nile_hippo": {
-			"id": "",
-			"value": "",
+			"id": "a720332a-d51c-4a70-873c-ef856bb28ff0",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDRhMTQ5YmYzM2E0Mjg0NzQ5MjQ0ODdmYzg2NzkxMDM0MWRlZDkxYTFiYThiMjk1ZDlkMWE4NzZmNjRkY2QifX19",
 			"dropchance" : 1.0
 		},
 		"okapi": {
-			"id": "",
-			"value": "",
+			"id": "b2d62125-8a3e-4049-8636-fc2ce4397034",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMzlmMTYwYzFjZDY2NjlmYjkxZjdmZTRjZGE1MTE0NDEwOTM0NDU2MzU3MDU1OTA2MzFjYWExNDczMTk3MTI1MCJ9fX0=",
 			"dropchance" : 1.0
 		},
 		"orca": {
-			"id": "",
-			"value": "",
+			"id": "85328587-a0e2-4b44-8700-3cff41824f74",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNTdlZTQwOGI2ZDM2YmE3ZWExYmQ1YjQxMjUzOTVkMzU0N2I1NDkxZGNhYjdjNWIzODA4ZGYzZGYzN2ZkMTEifX19",
 			"dropchance" : 1.0
 		},
 		"pacific_walrus": {
-			"id": "",
-			"value": "",
+			"id": "a185ff1a-f32e-47e0-be61-5a612f130f33",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDdiYWVkYWY5YWQ5NTQ3NGViMWJlNTg5MjQ0NDVkZmM3N2JiZGMyNTJjYzFjODE2NDRjZjcxNTRjNDQxIn19fQ==",
 			"dropchance" : 1.0
 		},
 		"polar_bear": {
-			"id": "",
-			"value": "",
+			"id": "e8167269-ce0d-4b3d-b28f-20aa4aecd3c5",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDQyMTIzYWMxNWVmZmExYmE0NjQ2MjQ3Mjg3MWI4OGYxYjA5YzFkYjQ2NzYyMTM3NmUyZjcxNjU2ZDNmYmMifX19",
 			"dropchance" : 1.0
 		},
 		"red_kangaroo": {
@@ -136,29 +136,29 @@
 			"value": "",
 			"dropchance" : 1.0
 		},
-		"red_anda": {
-			"id": "",
-			"value": "",
+		"red_panda": {
+			"id": "2a6d43f7-d0cf-41ca-9e54-ced89abd152a",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNmE4NzczMTUzMzU3MDgwMmNjYmVjZTBjMGFiZWNkYTY2YjRlMzY5MGY3YTczMDFhZWQzYWVhYWFhNjcyMWIifX19",
 			"dropchance" : 1.0
 		},
 		"reticulated_giraffe": {
-			"id": "",
-			"value": "",
+			"id": "ae705f43-7ff5-48ff-8207-4d4c768210b7",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjQ0YzhiN2UzNTUzZTczYzJhNzNjYTk0NmVlZWQxNzQ2M2IxZTdjYWIwY2Y1NjI5NTFiNzhjZDlkNGNkZDUifX19",
 			"dropchance" : 1.0
 		},
 		"toucan": {
-			"id": "",
-			"value": "",
+			"id": "c27e61c1-f927-47aa-b6bd-0e97c78be47e",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZjhhODJjOGI3NWRkMWMyY2U4MTMzYzBiYTkzOWI4YzUyZTQ3ZDNlYzM3NDk1MGY0N2RkZGJiZTM0NWUyMCJ9fX0=",
 			"dropchance" : 1.0
 		},
 		"tree_frog": {
-			"id": "",
-			"value": "",
+			"id": "e635c5a0-97af-48a2-a238-86eabcb2d40e",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDFlZjlmMWFlNGQyYmNiYmRmNzc4NDVmOWNiM2QzNTVjZGNhZGQ0ZGZiYmU5ZTdjYzNiNTI5OGRlMjZkYTZmIn19fQ==",
 			"dropchance" : 1.0
 		},
 		"lowland_gorilla": {
-			"id": "",
-			"value": "",
+			"id": "1e9b395d-8b11-4c4f-813b-f07d132ab48d",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDI3YzQ3MjJhOTQ5MWFlMDk5ZjZhZDE5YjI5MzY3NDFjMjk3OGI5ZmI0NGI3MmRiNjU0NTI3NmU3M2JmNmJkOSJ9fX0=",
 			"dropchance" : 1.0
 		}
 	}
