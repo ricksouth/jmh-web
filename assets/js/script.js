@@ -28,7 +28,7 @@ function loadContent() {
 
 function loadJson(url) {
 	$.ajax({
-		type: "POST",
+		type: "GET",
 		url: url,
 		dataType: 'json',
 		success: function(data) {
