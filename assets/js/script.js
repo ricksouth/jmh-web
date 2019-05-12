@@ -26,6 +26,10 @@ function loadContent() {
 	});
 }
 
+$("button.downloadbutton").on('click', function(e) {
+	console.log("ran");
+});
+
 function contentevents() {
 	$('.add').click(function(){
 		$('.all').prop("checked",false);
