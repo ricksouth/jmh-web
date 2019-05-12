@@ -29,7 +29,16 @@ function loadContent() {
 function contentevents() {
 	$("#dlb").on('click', function(e) {
 		var todownload = $("#todownloadlist a:not(.active)");
-		console.log(todownload);
+		if (todownload.length == 0) {
+			alert("Please select one or more textures to download.");
+			return;
+		}
+
+		var packs = [];
+		todownload.each(function(e) { 
+			packs.push($(this).attr('id'));
+		});
+		console.log(packs);
 	});
 
 	$('.add').click(function(){
