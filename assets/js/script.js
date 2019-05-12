@@ -39,7 +39,7 @@ function contentevents() {
 			});
 		}
 		else {
-			alert("Choose an item from list 1");
+
 		}
 	});
 
@@ -53,7 +53,6 @@ function contentevents() {
 		});
 	});
 
-	/* toggle all checkboxes in group */
 	$('.all').click(function(e){
 		e.stopPropagation();
 		var $this = $(this);
@@ -70,7 +69,6 @@ function contentevents() {
 		e.stopPropagation();
 	});
 
-	/* toggle checkbox when list group item is clicked */
 	$('.list-group a').click(function(e){
 		e.stopPropagation();
 
@@ -86,4 +84,11 @@ function contentevents() {
 			$this.trigger('click');
 		}
 	});
+
+	$('#avh').click(function(e){
+		$("#avc").click();
+	}
+	$('#tdh').click(function(e){
+		$("#tdc").click();
+	}
 }
