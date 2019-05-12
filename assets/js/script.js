@@ -37,11 +37,19 @@ function loadJson(packname, url) {
 			jsondata[packname] = data;
 			downloadamount--;
 			if (downloadamount == 0) {
-				console.log(jsondata);
+				downloadPacks(jsondata);
 			}
 		},
 		error: function(data) {}
 	});
+}
+
+function downloadPacks(dldata) {
+	var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(dldata));
+	var dle = document.getElementById('downloadAnchorElem');
+	dle.setAttribute("href", dataStr);
+	dle.setAttribute("download", "scene.json");
+	dle.click();
 }
 
 function contentevents() {
