@@ -87,8 +87,8 @@ function contentevents() {
 
 	$('#avh').click(function(e){
 		$("#avc").click();
-	}
+	});
 	$('#tdh').click(function(e){
 		$("#tdc").click();
-	}
+	});
 }
