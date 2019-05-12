@@ -26,11 +26,11 @@ function loadContent() {
 	});
 }
 
-$("button.downloadbutton").on('click', function(e) {
-	console.log("ran");
-});
-
 function contentevents() {
+	$("#dlb").on('click', function(e) {
+		console.log("ran");
+	});
+	
 	$('.add').click(function(){
 		$('.all').prop("checked",false);
 		var items = $("#availablelist input:checked:not('.all')");
