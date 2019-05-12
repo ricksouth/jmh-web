@@ -9,6 +9,10 @@
 		position: absolute;
 		bottom: 10px;
 	}
+	button.downloadbutton {
+		margin-left: -116px;
+		margin-right: 16px;
+	}
 }
 
 #content {
@@ -40,11 +44,11 @@ a small {
 	margin-bottom: 10px;
 }
 
-button.downloadbutton {
+.downloadbutton {
 	float: right;
 	width: 100px;
-	margin-left: -100px;
-	margin-right: 27px;
+	margin-left: -110px;
+	margin-right: 10px;
 
 	background-color: #a2c437;
 	color: white;
