@@ -55,7 +55,7 @@ function downloadPacks(dldata) {
 
 function contentevents() {
 	$("#sb").on('input', function(e) {
-		var search = $("#sb").val();
+		var search = $("#sb").val().replace(" ", "_").toLowerCase();
 		$("#availablelist a:not(.active)").each(function(e) {
 			var id = $(this).attr('id');
 			if (!id.includes(search)) {
