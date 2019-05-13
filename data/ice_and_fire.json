@@ -1,0 +1,105 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"fire_dragon": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ice_dragon": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"snow_villager": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hippogryph": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"gorgon": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"pixie": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cyclops": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"siren": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hippocampus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"death_worm": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cockatrice": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"stymphalian_bird": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"troll": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"myrmex_worker": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"myrmex_soldier": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"myrmex_sentinel": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"myrmex_royal": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"myrmex_queen": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"amphithere": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"sea_serpent": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+	}
+}
