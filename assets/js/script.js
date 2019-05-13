@@ -56,10 +56,15 @@ function downloadPacks(dldata) {
 function contentevents() {
 	$("#sb").on('input', function(e) {
 		var search = $("#sb").val();
-		console.log(search);
-		//$("#availablelist a:not(.active)").each(function(e)) {
-
-		//}
+		$("#availablelist a:not(.active)").each(function(e)) {
+			var id = $(this).attr('id');
+			if (!id.includes(search)) {
+				$(this).hide();
+			}
+			else {
+				$(this).show();
+			}
+		}
 	});
 
 	$("#dlb").on('click', function(e) {
