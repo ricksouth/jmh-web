@@ -1,0 +1,10 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"baby_skeleton": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		}
+	}
+}
