@@ -15,7 +15,12 @@ function loadContent() {
 					if (name != "") {
 						name += " ";
 					}
-					name += f.charAt(0).toUpperCase() + f.slice(1).toLowerCase();
+					if (f == "and") {
+						name += f
+					}
+					else {
+						name += f.charAt(0).toUpperCase() + f.slice(1).toLowerCase();
+					}
 				});
 				html += '<a href="#" class="list-group-item" id="' + e + '"><input type="checkbox" class="pull-left"> ' + name + '</a>';
 			});
