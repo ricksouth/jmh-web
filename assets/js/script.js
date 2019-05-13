@@ -156,7 +156,7 @@ function contentevents() {
 }
 
 function sortList(listid) {
-	$("#" + listid + " input:not('.all')").sort(sort_li).appendTo("#" + listid);
+	$("#" + listid + " a:not('.active')").sort(sort_li).appendTo("#" + listid);
 }
 function sort_li(a, b){
 	return ($(b).attr('id')) < ($(a).attr('id')) ? 1 : -1;    
