@@ -156,11 +156,8 @@ function contentevents() {
 }
 
 function sortList(listid) {
-	var elements = $("#" + listid + " input:checked:not('.all')").get();
-
-	elements.sort(function(el1, el2){
-		return $(el1).text().trim().localeCompare($(el2).text().trim())
-	})
-
-	$("#" + listid).append(elements);
+	$("#" + listid + " input:not('.all')").sort(sort_li).appendTo("#" + listid);
+}
+function sort_li(a, b){
+	return ($(b).attr('id')) < ($(a).attr('id')) ? 1 : -1;    
 }
