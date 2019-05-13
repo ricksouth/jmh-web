@@ -94,6 +94,7 @@ function contentevents() {
 				choice.parent().appendTo("#todownloadlist");
 			});
 		}
+		sortList("todownloadlist");
 		return false;
 	});
 
@@ -105,6 +106,7 @@ function contentevents() {
 			choice.prop("checked",false);
 			choice.parent().appendTo("#availablelist");
 		});
+		sortList("availablelist");
 		return false;
 	});
 
@@ -151,4 +153,14 @@ function contentevents() {
 		$("#tdc").click();
 		return false;
 	});
+}
+
+function sortList(listid) {
+	var elements = $("#" + listid + " input:checked:not('.all')").get();
+
+	elements.sort(function(el1, el2){
+		return $(el1).text().trim().localeCompare($(el2).text().trim())
+	})
+
+	$("#" + listid).append(elements);
 }
