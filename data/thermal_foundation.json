@@ -1,0 +1,20 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"blizz": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"blitz": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"basalz": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		}
+	}
+}
