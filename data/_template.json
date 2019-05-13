@@ -1,0 +1,15 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"mob_one": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"mob_two": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		}
+	}
+}
