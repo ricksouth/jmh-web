@@ -1,0 +1,130 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"chameleon": {
+			"id": "f90f6c7e-528e-4635-8118-85e8966bb028",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZDI2YmM4ZGNmOWE3ZDg0YzcxOWNlMTk1MTE4NjRmNTc4N2Y5YTEyNDA3OGUwMjIzNDQ5NWNkNDNhMjE2In19fQ==",
+			"dropchance" : 1.0
+		},
+		"treasure_slime": {
+			"id": "203924a4-d067-404e-921c-db9cc638d009",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjYxMGIzMDFhOGE1NGEyYzhkZDAyMjJlZmFkMTc0MzQyYjliMzg5ZmQ5MDQ4ZGMzM2EyMGJhZTM3YjVkYmRmYiJ9fX0=",
+			"dropchance" : 1.0
+		},
+		"haunted_tool": {
+			"id": "feb356bc-3ae4-4da8-8016-95a0b2eb5ea0",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjRiYTQ5Mzg0ZGJhN2I3YWNkYjRmNzBlOTM2MWU2ZDU3Y2JiY2JmNzIwY2Y0ZjE2YzJiYjgzZTQ1NTcifX19",
+			"dropchance" : 1.0
+		},
+		"grove_sprite": {
+			"id": "83152cb1-7361-40c5-b5a8-90602d45e9fb",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjNjNzFhODVlZWIzY2Q2NDQ5MTU5Njc1YWE4OTI3OGEyYTFkNTg3YjRkMGI3NjgxNzRmYzJlMTVjOWJlNGQifX19",
+			"dropchance" : 1.0
+		},
+		"bewitched_tome": {
+			"id": "ce32e730-4a75-4224-98d7-06798710fafc",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGNlNGM4N2ViNGRkZTI3NDU5ZTNlN2Y4NTkyMWU3ZTU3YjExMTk5MjYwY2FhNWNlNjNmMTM5ZWUzZDE4OGMifX19",
+			"dropchance" : 1.0
+		},
+		"filch_lizard": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"brain_slime": {
+			"id": "36aeb989-42d5-4a66-a8b0-788e637cf3b6",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNThiMTdiMzQ4ZWJlNzM5OTYzOGIwNDUzMjVmZTQ3NDdmMjEzZmJkNzEyN2ZjMzM3NDZjZTkyNDA2NjMyNmMifX19",
+			"dropchance" : 1.0
+		},
+		"rocket_creeper": {
+			"id": "a60c797c-6fc6-4771-bddf-79cb7838df46",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvODRiYjJlM2VjMzdlOGRjODU2YWVkMDUyNzY5NGRhZWY0ZTAxMzZmZDQ2OTlmODkzNTgyODQ5MGJiN2VhMWNkIn19fQ==",
+			"dropchance" : 1.0
+		},
+		"festive_creeper": {
+			"id": "0a43f313-2a70-429c-83c9-b9a2ea87b20e",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNWVhZTY4YWY5ZGVmZWRmM2NjYjMxODY3NDM5OTc2YmNkN2ZlZDZlN2Q3OGNkNjEyZmYyYmMxNjlhODgwZTIxMyJ9fX0=",
+			"dropchance" : 1.0
+		},
+		"support_creeper": {
+			"id": "ada33763-bebe-46cf-81e0-94f38f565ce8",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGI4MWUyNTM2ZmZkYWNjZTVhODQwNGU4MzIxYzliNThiN2YyYjRjMWE4ODIyYzNmYTU3YTQ1NThhMGVmIn19fQ==",
+			"dropchance" : 1.0
+		},
+		"skeleton_warrior": {
+			"id": "5e5a6cdc-04f5-4dce-a151-f103cac7dfd6",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjAzNTQzMzRhYjIxZGQxOTRkOGRmMjZiMjI0MTJkYjg1N2M4MzYxNzU1YWExOTA1NjIyZGMxYTMyNGZlMSJ9fX0=",
+			"dropchance" : 1.0
+		},
+		"blazing_juggernaut": {
+			"id": "2f679adb-5b2d-4e45-9375-de43e474904e",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYTBkN2FiMmMxYzhiNDlmMWM2ZTgxMmExOTBlOWQyYTg3N2U4NjE0ZmM1YzVmMmNlNjNhNWE1ZDhhYzZiMGQ0In19fQ==",
+			"dropchance" : 1.0
+		},
+		"lily_lurker": {
+			"id": "307c54bd-abdb-430f-b88f-039bdcdb7080",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZWExZmJlZjNkMGM1MWFkNmM3MTNhYTIwYzQyZGIxODM0MzRjZWM0ZmI2M2E1YTNlYWExMDFhZDNjNWY3NWQxNSJ9fX0=",
+			"dropchance" : 1.0
+		},
+		"mother_spider": {
+			"id": "acb1cce4-a67d-45e3-8298-ce752fdda606",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOWQ3ZTNiMTlhYzRmM2RlZTljNTY3N2MxMzUzMzNiOWQzNWE3ZjU2OGI2M2QxZWY0YWRhNGIwNjhiNWEyNSJ9fX0=",
+			"dropchance" : 1.0
+		},
+		"baby_spider": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"trollager": {
+			"id": "45c3e339-0272-4f3d-bd32-7af9f7e2ffe1",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvM2E3NzkxNmU4NDc2OWIyYzk1NDc5MzRkZDIxYWViZWRiMTk3Mjc1OGFhNWE3MzliNjEyNzQzNjUzZjZlYSJ9fX0=",
+			"dropchance" : 1.0
+		},
+		"lost_miner": {
+			"id": "d878d8f7-19a3-45c2-b4c9-ef502a7f6f6f",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYzk2MjdiZTYyY2VkNzE0MTEzOWQzZjE1NTc5MGE1ZDQzNTZlYjdiOWVlOTVlNTA0YjMzMjI5NzRjYmM1MTVlYSJ9fX0=",
+			"dropchance" : 1.0
+		},
+		"traveling_merchant": {
+			"id": "79232c7a-0527-4c17-a99b-a305b7207973",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNDU0MWU4ZWJjODgxYzhhMDJmZTRhZjQ0ZjI5MjhlYTkxODhiNTM5ZmQ1NjFiNWIzZmQ3MzE4OTZjMzNiYjUyNCJ9fX0=",
+			"dropchance" : 1.0
+		},
+		"dodo": {
+			"id": "db5caefc-65bd-484b-b1ff-24ccc48f66ae",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjk2MjczNzBmZWRiZDBiYWU3YmFlNmQ2Zjg1ODM1NTU3NjM3ODljMWJkOTNmYTYzOWNmYTNkZmQ0OGUzNDg1MCJ9fX0=",
+			"dropchance" : 1.0
+		},
+		"mimic": {
+			"id": "7e9c83d2-7461-41da-b7b5-9ab3c8e47f9f",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMmFjMjg5NWZkYmI4ZjY5OGQ3YWFjNDA4Y2E2NDdmN2I1YzE2ZjNjYTE5NjY5ZjQyNTRlM2E5MjIxYjZiMzAifX19",
+			"dropchance" : 1.0
+		},
+		"sheepman": {
+			"id": "dcd24f13-e7da-4e45-bce2-7f9a1833db03",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMWQ3M2YwZGRlNDE1NjhjNzNmMjUyYTIyZjM2YmVkY2Q0M2UwMzNjNTk1MTdhN2VlOGY5YTMxMzE5OTcyYjI3In19fQ==",
+			"dropchance" : 1.0
+		},
+		"goblin": {
+			"id": "ba4eb146-5558-4893-ad7b-f87635dd69f6",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNGJmNTZjNjU0MWMxMjY2ZmZjNDYzNTEwYmRiNTVhZWY5MzE1YWY1NDg4OThjZjVkM2NiYTFiNWI0YzAxIn19fQ==",
+			"dropchance" : 1.0
+		},
+		"harpy": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"flame_spewer": {
+			"id": "0f651b6d-1e42-4113-b131-580760b1a52f",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNzZmYzEzYzE1Mzk2MzEyNzM0N2FkMWRmOWI3Y2NhNDhiMjU1MGYwMTQ1MjcxYmFmZjE0OTEyNThkODIzNWZiIn19fQ==",
+			"dropchance" : 1.0
+		},
+		"void_eye": {
+			"id": "36122cdc-6c97-4b97-990a-ef4df57db922",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGFhOGZjOGRlNjQxN2I0OGQ0OGM4MGI0NDNjZjUzMjZlM2Q5ZGE0ZGJlOWIyNWZjZDQ5NTQ5ZDk2MTY4ZmMwIn19fQ==",
+			"dropchance" : 1.0
+		}
+	}
+}
