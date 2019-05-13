@@ -17,7 +17,7 @@ function loadContent() {
 					}
 					name += f.charAt(0).toUpperCase() + f.slice(1).toLowerCase();
 				});
-				html += '<a href="#" class="list-group-item" id="' + e + '">' + name + '<input type="checkbox" class="pull-left"></a>';
+				html += '<a href="#" class="list-group-item" id="' + e + '"><input type="checkbox" class="pull-left"> ' + name + '</a>';
 			});
 
 			$("#availablelist").html(html);
