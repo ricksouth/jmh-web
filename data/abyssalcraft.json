@@ -1,0 +1,230 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"depths_ghoul": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"evilpig": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"abyssal_zombie": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"jzahar": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"abygolem": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"dreadgolem": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"dreadguard": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"dragon_minion": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"dragon_boss": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"shadow_creature": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"shadow_monster": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"dreadling": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"dread_spawn": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"demon_pig": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"skeleton_goliath": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"chagaroth_spawn": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"chagaroth_fist": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"chagaroth": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"shadow_beast": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"sacthoth": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"anti_abyssal_zombie": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"anti_bat": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"anti_chicken": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"anti_cow": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"anti_creeper": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"anti_ghoul": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"anti_pig": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"anti_player": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"anti_skeleton": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"anti_spider": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"anti_zombie": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"remnant": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"omothol_ghoul": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"gatekeeper_minion": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"greater_dread_spawn": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"lesser_dreadbeast": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"lesser_shoggoth": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"evil_cow": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"evil_chicken": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"demon_cow": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"demon_chicken": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"evil_sheep": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"demon_sheep": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"coralium_squid": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"shub_offspring": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		}
+	}
+}
