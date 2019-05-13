@@ -1,0 +1,55 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"mage": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"toro": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"village_lord": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"guard": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"shopkeeper": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"bas": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"vampire_bat": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"sentry": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rainbow_guard": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"fugitive": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		}
+	}
+}
