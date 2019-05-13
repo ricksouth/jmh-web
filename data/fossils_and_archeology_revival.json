@@ -1,0 +1,245 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"anu": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"anubite": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"failuresaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"sentry_pigman": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"tar_slime": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"alligator_gar": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"allosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ankylosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"brachiosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ceratosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"coelacanth": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"compsognathus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"confuciusornis": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"deinonychus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"dilophosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"dodo": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"dryosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"elasmotherium": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"gallimimus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"gastornis": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"henodus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"icthyosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"kelenken": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"liopleurodon": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"mammoth": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"megalania": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"megaloceros": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"megalodon": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"megalograptus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"meganeura": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"mosasaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"nautilus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"pachycephalosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"parasaurolophus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"phorusrhacos": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"plesiosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"pterosaur": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"quagga": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"sarcosuchus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"smilodon": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"spinosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"stegosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"sturgeon": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"therizinosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"titanis": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"triceratops": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"tyrannosaurus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"velociraptor": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		}
+	}
+}
