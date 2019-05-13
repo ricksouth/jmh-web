@@ -1,0 +1,35 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"barbarian": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"archer_barbarian": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"chief_barbarian": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"pirate": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"archer_pirate": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"captain_pirate": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		}
+	}
+}
