@@ -80,6 +80,7 @@ function contentevents() {
 			var packname = $(this).attr('id');
 			var json = loadJson(packname, urlprefix + packname + ".json");
 		});
+		return false;
 	});
 
 	$('.add').click(function(){
@@ -93,6 +94,7 @@ function contentevents() {
 				choice.parent().appendTo("#todownloadlist");
 			});
 		}
+		return false;
 	});
 
 	$('.remove').click(function(){
@@ -103,6 +105,7 @@ function contentevents() {
 			choice.prop("checked",false);
 			choice.parent().appendTo("#availablelist");
 		});
+		return false;
 	});
 
 	$('.all').click(function(e){
@@ -115,10 +118,12 @@ function contentevents() {
 			$this.parents('.list-group').find("[type=checkbox]").prop("checked",false);
 			$this.prop("checked",false);
 		}
+		return false;
 	});
 
 	$('[type=checkbox]').click(function(e){
 		e.stopPropagation();
+		return false;
 	});
 
 	$('.list-group a').click(function(e){
@@ -135,12 +140,15 @@ function contentevents() {
 		if ($this.hasClass("all")) {
 			$this.trigger('click');
 		}
+		return false;
 	});
 
 	$('#avh').click(function(e){
 		$("#avc").click();
+		return false;
 	});
 	$('#tdh').click(function(e){
 		$("#tdc").click();
+		return false;
 	});
 }
