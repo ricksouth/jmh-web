@@ -93,9 +93,6 @@ function contentevents() {
 				choice.parent().appendTo("#todownloadlist");
 			});
 		}
-		else {
-
-		}
 	});
 
 	$('.remove').click(function(){
