@@ -54,6 +54,14 @@ function downloadPacks(dldata) {
 }
 
 function contentevents() {
+	$("#sb").on('input', function(e) {
+		var search = $("#sb").val();
+		console.log(search);
+		//$("#availablelist a:not(.active)").each(function(e)) {
+
+		//}
+	});
+
 	$("#dlb").on('click', function(e) {
 		var todownload = $("#todownloadlist a:not(.active)");
 		if (todownload.length == 0) {
