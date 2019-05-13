@@ -1,0 +1,95 @@
+{
+	"entityprefix": "",
+	"textures": {
+		"zombie_soldier": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"zombie_farmer": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"zombie_miner": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"army_soldier": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"bandit": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"commando": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"dictator_dave": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cyber_demon": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"skeleton_soldier": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"psycho_steve": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"storm_trooper": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"outcast": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"zombie_pigman_soldier": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"super_mutant_basic": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"super_mutant_elite": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"super_mutant_heavy": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"attack_helicopter": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"alien_bug": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		}
+	}
+}
