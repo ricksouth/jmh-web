@@ -1,0 +1,110 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"eldritch_warden": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"eldritch_golem": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cultist_leader": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"taintacle_giant": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"brainy_zombie": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"giant_brainy_zombie": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"wisp": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"fire_bat": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"pech": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"mind_spider": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"eldritch_guardian": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cultist_knight": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cultist_cleric": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"eldritch_crab": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"inhabited_zombie": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"thaumic_slime": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"taint_crawler": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"taintacle": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"taint_swarm": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"taint_seed": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"taint_seed_prime": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		}
+	}
+}
