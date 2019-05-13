@@ -1,0 +1,765 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"dart_frog": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"frog": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"toad": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"chick_leghorn": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"chick_orpington": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"chick_plymouth_rock": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"chick_rhode_island_red": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"chick_wyandotte": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hen_leghorn": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hen_orpington": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hen_plymouth_rock": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hen_rhode_island_red": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hen_wyandotte": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rooster_leghorn": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rooster_orpington": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rooster_plymouth_rock": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rooster_rhode_island_red": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rooster_wyandotte": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"bull_angus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"bull_friesian": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"bull_hereford": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"bull_highland": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"bull_holstein": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"bull_jersey": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"bull_longhorn": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"bull_mooshroom": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"calf_angus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"calf_friesian": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"calf_hereford": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"calf_highland": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"calf_holstein": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"calf_jersey": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"calf_longhorn": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"calf_mooshroom": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cow_angus": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cow_friesian": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cow_hereford": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cow_highland": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cow_holstein": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cow_jersey": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cow_longhorn": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"cow_mooshroom": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"buck_alpine": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"buck_angora": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"buck_fainting": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"buck_kiko": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"buck_kinder": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"buck_nigerian_dwarf": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"buck_pygmy": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"doe_alpine": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"doe_angora": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"doe_fainting": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"doe_kiko": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"doe_kinder": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"doe_nigerian_dwarf": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"doe_pygmy": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"kid_alpine": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"kid_angora": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"kid_fainting": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"kid_kiko": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"kid_kinder": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"kid_nigerian_dwarf": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"kid_pygmy": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"foal_draft_horse": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"mare_draft_horse": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"stallion_draft_horse": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peachick_blue": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peachick_charcoal": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peachick_opal": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peachick_peach": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peachick_purple": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peachick_taupe": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peachick_white": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peacock_blue": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peacock_charcoal": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peacock_opal": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peacock_peach": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peacock_purple": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peacock_taupe": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peacock_white": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peafowl_blue": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peafowl_charcoal": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peafowl_opal": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peafowl_peach": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peafowl_purple": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peafowl_taupe": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"peafowl_white": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hog_duroc": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hog_hampshire": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hog_large_black": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hog_large_white": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hog_old_spot": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hog_yorkshire": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"piglet_duroc": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"piglet_hampshire": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"piglet_large_black": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"piglet_large_white": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"piglet_old_spot": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"piglet_yorkshire": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"sow_duroc": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"sow_hampshire": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"sow_large_black": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"sow_large_white": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"sow_old_spot": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"sow_yorkshire": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_buck_chinchilla": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_buck_cottontail": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_buck_havana": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_buck_jack": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_buck_lop": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_buck_new_zealand": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_buck_rex": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_doe_chinchilla": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_doe_cottontail": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_doe_dutch": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_doe_havana": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_doe_jack": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_doe_lop": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_doe_new_zealand": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_doe_rex": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_kit_chinchilla": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_kit_cottontail": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_kit_dutch": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_kit_havana": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_kit_Jack": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_kit_lop": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_kit_new_zealand": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_kit_rex": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"rabbit_buck_dutch": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ferret_grey": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ferret_white": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hamster": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hedgehog": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"hedgehog_albino": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ewe_dorper": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ewe_dorset": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ewe__friesian": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ewe_jacob": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ewe_merino": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ewe_suffolk": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"lamb_dorper": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"lamb_dorset": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"lamb__friesian": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"lamb_jacob": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"lamb_merino": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"lamb_suffolk": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ram_dorper": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ram_dorset": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ram__friesian": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ram_jacob": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ram_merino": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		},
+		"ram_suffolk": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		}
+	}
+}
