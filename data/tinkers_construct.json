@@ -1,0 +1,10 @@
+{
+	"entityprefix": "Entity",
+	"textures": {
+		"blue_slime": {
+			"id": "",
+			"value": "",
+			"dropchance" : 1.0
+		}
+	}
+}
