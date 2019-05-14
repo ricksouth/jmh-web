@@ -82,9 +82,12 @@ a small {
 	width: 100px;
 	margin-left: -110px;
 
-	background-color: #a2c437;
+	background-color: gray;
 	color: white;
 	border: none;
+}
+.downloadbutton.active {
+	background-color: #a2c437;
 }
 
 .downloadbutton:hover {
