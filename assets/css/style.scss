@@ -5,12 +5,14 @@
 
 @media only screen and (max-width: 960px) {
 	.footer {
+		position: fixed;
+		bottom: 0;
+
 		background-color: white;
 		height: 40px;
 	}
 	.footercontent {
 		background-color: white;
-		position: fixed;
 	}
 	button.downloadbutton {
 		margin-left: -116px;
