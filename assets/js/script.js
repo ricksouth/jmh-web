@@ -171,6 +171,7 @@ function sort_li(a, b){
 }
 
 function checkDownloadButton() {
+	console.log($("#availablelist .list-group-item:not(.active)").length)
 	if ($("#availablelist .list-group-item:not(.active)").length > 0) {
 		$("#dlb").addClass("active");
 	}
