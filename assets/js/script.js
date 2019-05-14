@@ -54,7 +54,7 @@ function loadJson(packname, url) {
 
 function downloadPacks(dldata) {
 	var ymdhis = new Date().toLocaleDateString("en-ZA", {"year":"numeric","month":"2-digit","day":"2-digit","hour":"numeric","minute":"numeric","second":"numeric"}).replace(/\D+/g, '');;
-	var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(dldata, null, "\t"));
+	var dataStr = "data:text/json;charset=utf-8," + encodeURIComponent(JSON.stringify(dldata));//, null, "\t"));
 	var dle = document.getElementById('downloadAnchorElem');
 	dle.setAttribute("href", dataStr);
 	dle.setAttribute("download", "jmh-textures-" + ymdhis + ".json");
