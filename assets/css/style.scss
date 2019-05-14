@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 @media only screen and (max-width: 960px) {
-	.list-group {
-		margin-bottom: 200px;
+	div.list-group {
+		margin-bottom: 80px;
 	}	
 	footer {
 		position: fixed;
