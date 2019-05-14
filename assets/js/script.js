@@ -73,9 +73,6 @@ function contentevents() {
 	});
 
 	$("#dlb").on('click', function(e) {
-		if ($(this).hasClass("active")) {
-			return;
-		}
 		var todownload = $("#todownloadlist a:not(.active)");
 		if (todownload.length == 0) {
 			alert("Please select one or more textures to download.");
