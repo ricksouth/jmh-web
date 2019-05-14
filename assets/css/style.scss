@@ -4,6 +4,9 @@
 @import "{{ site.theme }}";
 
 @media only screen and (max-width: 960px) {
+	.list-group {
+		margin-bottom: 200px;
+	}	
 	footer {
 		position: fixed;
 		bottom: 0px;
@@ -86,9 +89,6 @@ a small {
 	height: 300px;
 }
 
-.list-group {
-	margin-bottom: 200px;
-}
 .list-group a {
 	padding-left: 30px;
 }
