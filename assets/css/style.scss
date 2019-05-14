@@ -57,20 +57,24 @@ a small {
 }
 
 .searchbox {
+	position: relative;
 	float: left;
+	left: 2%;
+
 	width: 150px;
 	height: 34px;
 
 	padding-left: 10px;
-	margin-left: 10px;
 	margin-right: -160px;
 }
 
 .downloadbutton {
+	position: relative;
 	float: right;
+	right: 2%;
+
 	width: 100px;
 	margin-left: -110px;
-	margin-right: 10px;
 
 	background-color: #a2c437;
 	color: white;
