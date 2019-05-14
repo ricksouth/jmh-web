@@ -86,6 +86,9 @@ a small {
 	color: white;
 	border: none;
 }
+.downloadbutton:not(.active):hover {
+	cursor: not-allowed;
+}
 .downloadbutton.active {
 	background-color: #a2c437;
 }
