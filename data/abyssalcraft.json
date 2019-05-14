@@ -2,8 +2,8 @@
 	"entityprefix": "Entity",
 	"textures": {
 		"depths_ghoul": {
-			"id": "2f738f4c-64b2-317c-9731-4a4f04454710",
-			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzFhMTQzY2EwNGM1YjRmNDEwNzhkZjY0N2UwN2MwNTAzYTA3YmJlMjU0ZWIwN2E4YjVlZmFhZGFmM2U2NGIzMGUifX19",
+			"id": "60838a97-1041-4fbf-bce5-b9f0aa56ae99",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvZGQ1NGRhM2JjMGE5MzdkZGY2MjVlMzM5YjdlMzJhNGIwMjM5NGUzMWQyY2JkODFmYzFjMWYyNWIyNTdmNjkifX19",
 			"dropchance" : 1.0
 		},
 		"evilpig": {
@@ -22,13 +22,13 @@
 			"dropchance" : 1.0
 		},
 		"abygolem": {
-			"id": "",
-			"value": "",
+			"id": "2be368a4-2090-3029-8f92-e1d72ca23388",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlLzhiZjE4YmRkYTNlMGRjN2I1NGUxZGNkOGEwMDdiZGE0YzAyYzI1YzllZGJlYzFmMjIzNjBiOThlMjc5N2RhNzYifX19",
 			"dropchance" : 1.0
 		},
 		"dreadgolem": {
-			"id": "",
-			"value": "",
+			"id": "7200280f-665f-3324-b02d-1546c7e61be9",
+			"value": "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHBzOi8vdGV4dHVyZXMubWluZWNyYWZ0Lm5ldC90ZXh0dXJlL2MwMTU2NjQ0MGE1MDhjNTZjNjViNTMxYTVkY2ZmZjE3ZjgyOWZmMTk0NTZmZDA0NTIyZmEwZWM3ZTAxZDgxYjcifX19",
 			"dropchance" : 1.0
 		},
 		"dreadguard": {
