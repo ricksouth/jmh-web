@@ -2,9 +2,6 @@ $(document).ready(function(e) {
 	$("#content").load("/content.html", function() {
 		loadContent();
 	});
-
-	var tex = "eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvNjgzZWY4Zjg5NmQwMDA0ZDU2MzYyZWVmYjAxYjgzMzMzM2UyZTdlZDlkNWM5YWJmMmJmZTk3N2U0NzNhYTgwMiJ9fX0=";
-	console.log(tex.hashCode());
 });
 
 function loadContent() {
@@ -180,15 +177,4 @@ function checkDownloadButton() {
 	else {
 		$("#dlb").removeClass("active");
 	}
-}
-
-String.prototype.hashCode = function(){
-	var hash = 0;
-	if (this.length == 0) return hash;
-	for (i = 0; i < this.length; i++) {
-		char = this.charCodeAt(i);
-		hash = ((hash<<5)-hash)+char;
-		hash = hash & hash; // Convert to 32bit integer
-	}
-	return hash;
 }
