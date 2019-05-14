@@ -7,12 +7,14 @@
 	footer {
 		position: fixed;
 		bottom: 0px;
+		z-index: 3;
 
 		background-color: white;
-		height: 40px;
+		height: 45px;
 	}
 	.footercontent {
 		background-color: white;
+		margin-bottom: 5px;
 	}
 	button.downloadbutton {
 		margin-left: -116px;
