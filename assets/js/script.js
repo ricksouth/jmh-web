@@ -100,6 +100,7 @@ function contentevents() {
 			});
 		}
 		sortList("todownloadlist");
+		checkDownloadButton();
 		return false;
 	});
 
@@ -112,6 +113,7 @@ function contentevents() {
 			choice.parent().appendTo("#availablelist");
 		});
 		sortList("availablelist");
+		checkDownloadButton();
 		return false;
 	});
 
@@ -163,6 +165,16 @@ function contentevents() {
 function sortList(listid) {
 	$("#" + listid + " a:not('.active')").sort(sort_li).appendTo("#" + listid);
 }
+
 function sort_li(a, b){
 	return ($(b).attr('id')) < ($(a).attr('id')) ? 1 : -1;    
+}
+
+function checkDownloadButton() {
+	if ($("#availablelist input:not('.active')").length > 0) {
+		$("#dlb").addClass("active");
+	}
+	else {
+		$("#dlb").removeClass("active");
+	}
 }
