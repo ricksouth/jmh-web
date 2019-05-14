@@ -92,8 +92,7 @@ a small {
 .downloadbutton.active {
 	background-color: #a2c437;
 }
-
-.downloadbutton:hover {
+.downloadbutton.active:hover {
 	filter: brightness(75%);
 }
 
