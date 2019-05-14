@@ -7,6 +7,17 @@
 	div.list-group {
 		margin-bottom: 80px;
 	}	
+	.footercontent {
+		background-color: white;
+		margin-bottom: 8px;
+	}
+	button.downloadbutton {
+		margin-left: -116px;
+		margin-right: 16px;
+	}
+	section {
+		border-bottom: none !important;
+	}
 	footer {
 		position: fixed;
 		bottom: 0px;
@@ -15,14 +26,6 @@
 		background-color: white;
 		height: 50px;
 		width: 100%;
-	}
-	.footercontent {
-		background-color: white;
-		margin-bottom: 8px;
-	}
-	button.downloadbutton {
-		margin-left: -116px;
-		margin-right: 16px;
 	}
 }
 
