@@ -171,7 +171,7 @@ function sort_li(a, b){
 }
 
 function checkDownloadButton() {
-	if ($("#availablelist input:not('.active')").length > 0) {
+	if ($("#availablelist a:not('.active')").length > 0) {
 		$("#dlb").addClass("active");
 	}
 	else {
